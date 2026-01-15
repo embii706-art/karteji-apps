@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1017734829960",
+    "project_id": "katar-9cac3",
+    "storage_bucket": "katar-9cac3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017734829960:android:6b02b7176f08a23ce28c3d",
+        "android_client_info": {
+          "package_name": "com.kartejiapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQxpD7ea9gHWGiU3wYXr0XHyl-SNyFYNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
