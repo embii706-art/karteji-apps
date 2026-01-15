@@ -1,0 +1,30 @@
+.
+├── App.js
+├── PROJECT_SUMMARY.md
+├── QUICK_START.md
+├── README.md
+├── STRUCTURE.txt
+├── android
+│   └── app
+│       └── google-services.json
+├── package-lock.json
+├── package.json
+└── src
+    ├── config
+    │   └── firebase.js
+    ├── constants
+    │   └── theme.js
+    ├── navigation
+    │   └── AppNavigator.js
+    ├── screens
+    │   ├── DashboardScreen.js
+    │   ├── EventsScreen.js
+    │   ├── FinanceScreen.js
+    │   ├── LoginScreen.js
+    │   ├── ProfileScreen.js
+    │   ├── SplashScreen.js
+    │   └── VotingScreen.js
+    └── services
+        └── cloudinary.js
+
+9 directories, 19 files
